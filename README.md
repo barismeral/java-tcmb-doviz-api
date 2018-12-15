@@ -31,8 +31,7 @@
   
   float selling = cur.getSellingPrice();   // 5.3887
   
-  boolean isForex = cur.isForex();   // false dollar not forex
-  </code>
+  boolean isForex = cur.isForex();   // false dollar not forex</code>
   <hr>
   
             
