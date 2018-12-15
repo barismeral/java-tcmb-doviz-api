@@ -1,10 +1,12 @@
 # TCBM java API
+
 <hr>
-##Verion 1.0.1
+## Verion 1.0.1
 ## Factory Class CurrencyFactory
 ## Moneys Enum Moneys
 ## Cureency Interface Currency
 ## Main Class Main
+
 <hr>
 
 # Methods
