@@ -58,6 +58,7 @@ public final class CurrencyFactory {
     public void setCurrencies(Moneys money){
 
         this.money = money;
+        parse();
     }
 
     /**
