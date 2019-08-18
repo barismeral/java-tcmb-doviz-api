@@ -17,21 +17,23 @@ public class Main {
     public static void main(String[] args) {
 
         CurrencyFactory currencyAPI = new CurrencyFactory(Moneys.US_DOLLAR);
+         
+        Currency cur = currencyAPI.getCurrency();
 
         //get Date MM/DD/YY
-        System.out.println(currencyAPI.getCurrency().getDate());
+        System.out.println(cur.getDate());
 
         //get Money Name
-        System.out.println(currencyAPI.getCurrency().getName());
+        System.out.println(cur.getName());
 
         //get Buying Price
-        System.out.println(currencyAPI.getCurrency().getBuyingPrice());
+        System.out.println(cur.getBuyingPrice());
 
         //get Selling Price
-        System.out.println(currencyAPI.getCurrency().getSellingPrice());
+        System.out.println(cur.getSellingPrice());
 
         //get is forex
-        System.out.println(currencyAPI.getCurrency().isForex());
+        System.out.println(cur.isForex());
 
 
         /*
