@@ -1,4 +1,4 @@
-package com.github.barismeral.xml.foreignexance;
+package com.github.barismeral.dovizAPI;
 
 /**
  * @author Barış Meral
@@ -6,7 +6,7 @@ package com.github.barismeral.xml.foreignexance;
  * @since 12.15.2018
  * @version 1.0.1
  *
- * <code>Moneys</code>
+ * <code>com.github.barismeral.dovizAPI.Moneys</code>
  *
  *
  *

@@ -1,10 +1,10 @@
-package com.github.barismeral.xml.foreignexance;
+package com.github.barismeral.dovizAPI;
 
 /**
  * @author Barış Meral
  * @since 12.15.2018
  * @version 1.0.1
- * <code>Currency</code> <b>Interface</b>
+ * <code>com.github.barismeral.dovizAPI.Currency</code> <b>Interface</b>
  * <p>get current Date, get Money Name, get Buying & Selling Price, is forex ?</p>
  */
 
